@@ -453,6 +453,8 @@ header.sticky .nav-bar {
   width: 100%;
 }
 
+
+
 .skills-description {
   max-width: 700px;
   margin-bottom: 50px;
@@ -1364,3 +1366,4 @@ footer a {
     transform: translate(80px, -190px);
   }
 }
+
