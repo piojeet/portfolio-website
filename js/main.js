@@ -150,31 +150,31 @@ ScrollReveal({
 });
 
 //Target elements, and specify options to create reveal animations
-ScrollReveal().reveal('.home .info h2', { delay: 200, origin: 'left' });
-ScrollReveal().reveal('.home .info h3, .home .info p', { delay: 300, origin: 'right' });
+ScrollReveal().reveal('.home .info h2', { delay: 200, origin: 'bottom' });
+ScrollReveal().reveal('.home .info h3, .home .info p', { delay: 300, origin: 'bottom' });
 ScrollReveal().reveal('.home .info .btn', { delay: 400, origin: 'bottom' });
-ScrollReveal().reveal('.media-icons i', { delay: 200, origin: 'left', interval: 200 });
+ScrollReveal().reveal('.media-icons i', { delay: 200, origin: 'bottom', interval: 200 });
 ScrollReveal().reveal('.home-img', { delay: 200, origin: 'bottom' });
 
 ScrollReveal().reveal('.home .scroll-down', { delay: 200, origin: 'top' });
 
-ScrollReveal().reveal('.container .section-title-01, .section-title-02', { delay: 200, origin: 'left' });
+ScrollReveal().reveal('.container .section-title-01, .section-title-02', { delay: 200, origin: 'bottom' });
 
-ScrollReveal().reveal('.content .about-img', { delay: 200, origin: 'left' });
+ScrollReveal().reveal('.content .about-img', { delay: 200, origin: 'bottom' });
 
-ScrollReveal().reveal('.description h3', { delay: 200, origin: 'right' });
+ScrollReveal().reveal('.description h3', { delay: 200, origin: 'bottom' });
 
-ScrollReveal().reveal('.description h4', { delay: 400, origin: 'right' });
+ScrollReveal().reveal('.description h4', { delay: 400, origin: 'bottom' });
 
-ScrollReveal().reveal('.description p', { delay: 600, origin: 'right', interval: 200 });
+ScrollReveal().reveal('.description p', { delay: 600, origin: 'bottom', interval: 200 });
 
-ScrollReveal().reveal('.professional-list', { delay: 600, origin: 'right' });
+ScrollReveal().reveal('.professional-list', { delay: 600, origin: 'bottom' });
 
 ScrollReveal().reveal('.about-info .btn', { delay: 200, origin: 'bottom', interval: 200 });
 
-ScrollReveal().reveal('.skills-description h3', { delay: 200, origin: 'left' });
+ScrollReveal().reveal('.skills-description h3', { delay: 200, origin: 'bottom' });
 
-ScrollReveal().reveal('.skills-description p', { delay: 600, origin: 'left' });
+ScrollReveal().reveal('.skills-description p', { delay: 600, origin: 'bottom' });
 
 ScrollReveal().reveal('.edu-list', { delay: 200, origin: 'bottom', interval: 200 });
 
@@ -182,39 +182,39 @@ ScrollReveal().reveal('.bars', { delay: 200, origin: 'bottom', interval: 200 });
 
 ScrollReveal().reveal('.skills-info', { delay: 200, origin: 'bottom', interval: 200 });
 
-ScrollReveal().reveal('.services-description', { delay: 200, origin: 'left' });
+ScrollReveal().reveal('.services-description', { delay: 200, origin: 'bottom' });
 
 ScrollReveal().reveal('.service-container .service-card', { delay: 200, origin: 'bottom', interval: 200 });
 
 ScrollReveal().reveal('.img-card-container .img-card', { delay: 200, origin: 'bottom', interval: 200 });
 
-ScrollReveal().reveal('.contact-card h4', { delay: 200, origin: 'top' });
+ScrollReveal().reveal('.contact-card h4', { delay: 200, origin: 'bottom' });
 
-ScrollReveal().reveal('.contact-card h3', { delay: 200, origin: 'left' });
+ScrollReveal().reveal('.contact-card h3', { delay: 200, origin: 'bottom' });
 
 ScrollReveal().reveal('.contact-card h2', { delay: 200, origin: 'bottom' });
 
-ScrollReveal().reveal('.swiper-slide', { delay: 200, origin: 'left' });
+ScrollReveal().reveal('.swiper-slide', { delay: 200, origin: 'bottom' });
 
-ScrollReveal().reveal('.contact-left h2', { delay: 200, origin: 'left' });
+ScrollReveal().reveal('.contact-left h2', { delay: 200, origin: 'bottom' });
 
-ScrollReveal().reveal('.contact-list li', { delay: 200, origin: 'left', interval: 200 });
+ScrollReveal().reveal('.contact-list li', { delay: 200, origin: 'bottom', interval: 200 });
 
-ScrollReveal().reveal('.contact-right p', { delay: 200, origin: 'right', interval: 200 });
+ScrollReveal().reveal('.contact-right p', { delay: 200, origin: 'bottom', interval: 200 });
 
-ScrollReveal().reveal('.contact-right .first-row, .third-row', { delay: 200, origin: 'right' });
+ScrollReveal().reveal('.contact-right .first-row, .third-row', { delay: 200, origin: 'bottom' });
 
-ScrollReveal().reveal('.contact-right .first-row, .second-row, .contact-btn', { delay: 400, origin: 'right' });
+ScrollReveal().reveal('.contact-right .first-row, .second-row, .contact-btn', { delay: 400, origin: 'bottom' });
 
-ScrollReveal().reveal('.contact-right ', { delay: 600, origin: 'right' });
+ScrollReveal().reveal('.contact-right ', { delay: 600, origin: 'bottom' });
 
 ScrollReveal().reveal('.contact-form .btn', { delay: 200, origin: 'bottom' });
 
-ScrollReveal().reveal('.about h2', { delay: 200, origin: 'left' });
+ScrollReveal().reveal('.about h2', { delay: 200, origin: 'bottom' });
 
-ScrollReveal().reveal('.about p', { delay: 400, origin: 'left' });
+ScrollReveal().reveal('.about p', { delay: 400, origin: 'bottom' });
 
-ScrollReveal().reveal('.footer-container .about', { delay: 600, origin: 'left' });
+ScrollReveal().reveal('.footer-container .about', { delay: 600, origin: 'bottom' });
 
 ScrollReveal().reveal('.footer-container .info h3', { delay: 200, origin: 'top' });
 
@@ -222,7 +222,7 @@ ScrollReveal().reveal('.footer-container .info ul li', { delay: 200, origin: 'to
 
 ScrollReveal().reveal('.footer-copyright p', { delay: 200, origin: 'bottom' });
 
-ScrollReveal().reveal('.follow h3', { delay: 200, origin: 'right' });
+ScrollReveal().reveal('.follow h3', { delay: 200, origin: 'bottom' });
 
-ScrollReveal().reveal('.follow ul li', { delay: 200, origin: 'right', interval: 200 });
+ScrollReveal().reveal('.follow ul li', { delay: 200, origin: 'bottom', interval: 200 });
 
